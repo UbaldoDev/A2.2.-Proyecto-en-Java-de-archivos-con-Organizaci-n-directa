@@ -1,0 +1,9 @@
+REPORTE DE INVENTARIO
+---------------------
+
+ID: 1111
+Nombre: Valero Mexicano     
+Descripción: Jugeute Mexicano              
+Existencia: 20
+Estado: true
+---------------------
